@@ -9,7 +9,7 @@ permalink: /
 
 <img style="padding: 0px; width:340px;" src="/images/my_photo1.png" alt="My photo" >
 
-My research interests lie primarily in the area of geophysical sciences and computational science. I am particularly interested in numerical weather prediction and tsunami science. For solving the geophysical inverse problems, I utilize data assimilation and time revere imaging method. I applied the data assimilation method in numerical weather prediction to find optimal locations for adaptive observations for reducing forecast error. I also use this method with ship-borne GPS data to examine the possiblity of using ship-borne GPS data in tsunami forecasting. Apart from, I applied time reverse imaging method to reconstruct initial source model of tsunami triggered by undersea earthquake and submarine landslide.  
+My research interests lie primarily in the area of geophysical science, applied mathematics and computational science. I am particularly interested in numerical weather prediction and tsunami science. For solving the geophysical inverse problems, I utilize data assimilation and time revere imaging method. The data assimilation method has been applied to numerical weather prediction to find optimal locations for adaptive observations for reducing forecast error. I also use this method with ship-borne GPS data to examine the possiblity of using the ship data in tsunami forecasting. Apart from, I applied time reverse imaging to reconstruct an initial source model of tsunami triggered by undersea earthquake and submarine landslide.  
 
 ## Appointments
 <ul>
