@@ -1,16 +1,61 @@
   <footer>
-   <ul>
-   <li><a href="mailto:mjhossen55@gmail.com">Email: mjhossen55@gmail.com</a></li>
-   <li><a href="https://github.com/mjhossen">github.com/mjhossen</a></li>
-   </ul>
 
-
-	<div class="wrap">
+	<div class="wrapper">
 
 		<!--p class="footer__text">personal webpage.</p-->
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li><strong>{{ site.title }}</strong></li>
+			<li>{{ site.jobtitle }}</li>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        </ul>
+      </div>
+</div>
 
-		<div class="footer__copyright">
-			<span>© 2020 Jakir Hossen</span>
-			<a href="https://jekyllthemes.io" target="_blank">Jekyll Themes</a>
-		</div>
+      <div class="footer-col  footer-col-2">
+       <ul class="social-media-list">
+
+  {% if site.google_scholar_id %}
+  <li>
+    <a href="https://scholar.google.com/citations?user={{ site.google_scholar_id }}">
+      <i class="ai ai-google-scholar" style="color:gray"></i> Google Scholar
+    </a>
+  </li>
+{% endif %}
+     
+
+{% if site.github_username %}
+  <li>
+    <a href="https://github.com/{{ site.github_username }}">
+      <i class="fa fa-github" style="color:gray"></i> Github
+    </a>
+  </li>
+{% endif %}
+
+{% if site.orcid_id %}
+  <li>
+    <a href="https://orcid.org/{{ site.orcid_id }}">
+      <i class="ai ai-orcid" style="color:gray"></i> ORCID
+    </a>
+  </li>
+{% endif %}
+
+  {% if site.twitter_username %}
+  <li>
+    <a href="https://twitter.com/{{ site.twitter_username }}">
+      <i class="fa fa-twitter" style="color:gray"></i> Twitter
+    </a>
+  </li>
+{% endif %}
+</ul>
+</div>
+
+<div class="footer-col  footer-col-3">
+	<div class="footer__copyright">
+		<span>© 2020 Jakir Hossen</span>
+
+		<a href="https://jekyllthemes.io" target="_blank">Jekyll Themes</a>
+	</div>
+</div>
   </footer>
