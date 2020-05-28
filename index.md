@@ -9,11 +9,14 @@ permalink: /
 
 <img style="padding: 0px; width:340px;" src="/images/my_photo1.png" alt="My photo" >
 
-My research interests lie primarily in the area of geophysical science, applied mathematics and computational science. I am particularly interested in numerical weather prediction and tsunami science. For solving the geophysical inverse problems, I utilize data assimilation and time revere imaging method. The data assimilation method has been applied to numerical weather prediction to find optimal locations for adaptive observations for reducing forecast error. I also use this method with ship-borne GPS data to examine the possiblity of using the ship data in tsunami forecasting. Apart from, I applied time reverse imaging to reconstruct an initial source model of tsunami triggered by undersea earthquake and submarine landslide.  
+I am a postdoctoral research associate at CIRES (Cooperative Institute for Research in Environmental Sciences), University of Colorado Boulder, USA. My research interests lie primarily in the area of geophysical sciences, applied mathematics and computational science. I am particularly interested in numerical weather prediction and tsunami science to understand natural hazards and to improve the knowledge of their dynamics. For solving the geophysical inverse problems, I utilize data assimilation and time revere imaging method. The data assimilation method has been implemented in numerical weather prediction to find optimal locations for adaptive observations for reducing forecast error. I have also successfully applied this method with ship-borne GPS data to examine the possibility of using the ship data in tsunami forecasting in the Cascadia subduction zone (CSZ). Currently, I am developing a methodology using an adjoint sensitivity method with Green's function based Time Reverse Imaging to identify the optimal sites for deploying new sea-floor sensors in the CSZ offshore Washington and Oregon. 
+
+
+<!--Apart from, I applied time reverse imaging to reconstruct an initial source model of tsunami triggered by undersea earthquake and submarine landslide.-->  
 
 ## Appointments
 <ul>
-  <li>2018-present: CIRES visiting fellow, University of Colorado Boulder</li>	
+  <li>2018-present: CIRES Visiting Fellow, University of Colorado Boulder, USA</li>	
   <li>2017-2018: Project Researcher, University of Tokyo, Japan</li>
   <li>2015-2018: Assistant Professor in Mathematics, BRAC University, Bangladesh</li>
   <li>2009-2011: Senior Lecturer in Mathematics, BRAC University, Bangladesh</li>
