@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My cv
+title: Curriculum vitae
 permalink: /cv/
 ---
  <hr size="10" noshade> 
