@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software Development
+title: Scientific Software
 permalink: /software/
 ---
  <hr size="10" noshade> 
