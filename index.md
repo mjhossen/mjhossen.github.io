@@ -3,7 +3,6 @@ layout: page
 title: Jakir Hossen
 permalink: /
 ---
- <hr size="10" noshade> 
 <!--{% include image.html url="/images/my_photo.jpg" caption="My photo." width=50 align="right" %}-->
 <!--img style="padding: 20px; " src="/images/my_photo1.png" alt="My photo" width="360" align="right"-->
 
@@ -30,7 +29,7 @@ Department of Geological Sciences<br>
 University of Colorado Boulder<br>
 Benson Earth Sciences building, Room-465<br>
 200 Colorado Ave, Boulder, CO 80309<br>
-Email: <a href="mailto:md.hossen@colorado.edu">md.hossen@colorado.edu</a><br>
+Email: <a href="mailto:md.hossen@colorado.edu"><span style="color: red">md.hossen@colorado.edu</span> </a><br>
 
 <!--### Appointments
 <ul>

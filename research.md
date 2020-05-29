@@ -3,9 +3,6 @@ layout: page
 title: Research
 permalink: /research/
 ---
- <hr size="10" noshade> 
-
-
 
 My research interests lie primarily in the area of geophysical inverse problems, applied mathematics and computational science. I am particularly interested in numerical weather prediction and tsunami science to understand natural hazards and to improve the knowledge of their dynamics. In my research, I am trying to answer two fundamental questions: 1) how can we reduce forecast error significantly and 2) how can we reconstruct initial conditions more quickly and accurately? I am keen to develop new algorithms based on data assimilation with artificial intelligence in order to reduce forecast error in both the fields. 
 
@@ -14,6 +11,7 @@ I have implemented the data assimilation method in numerical weather prediction 
 <!--During my PhD, I developed three different source inversion techniques to estimate initial tsunami source in order to understand source mechanism of large tsunami triggered by megathrust and tsunami earthquake as well as submarine landslide. I developed the first time reverse imaging that has potential to be used in tsunami forecasting at far-field. At Earthquake Research Institute, University of Tokyo, Japan, I introduced an adjoint sensitivity (AS) method to identify the optimal set of stations that improves the performance of the source inversion method. The AS method has the ability to identify erroneous tide gauges that degrade the inversion result. -->
 
 {% include image.html url="/images/ship_fig.png" caption="Data assimilation: Comparison of tsunami height from referenced model and the model by assimilating ship data at fixed locations. Left column shows the result with elevation data, middle one with velocity and right one shows the combination of elevation and velocity data at 55 ship locations." width=900 align="left" %}
+
 
 <h4> Scientific Softwares:</h4>
 

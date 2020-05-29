@@ -3,7 +3,7 @@ layout: page
 title: Presentations
 permalink: /presentation/
 ---
- <hr size="10" noshade> 
+ <!--hr size="10" noshade--> 
 
 <ul>
 

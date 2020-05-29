@@ -8,7 +8,7 @@
         <ul class="contact-list">
           <li><strong>{{ site.title }}</strong></li>
 			<li>{{ site.jobtitle }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li><a href="mailto:{{ site.email }}"><span style="color: white">{{ site.email }}</span></a></li>
         </ul>
       </div>
 </div>
@@ -19,24 +19,25 @@
   {% if site.google_scholar_id %}
   <li>
     <a href="https://scholar.google.com/citations?user={{ site.google_scholar_id }}" target="_blank">
-      <i class="ai ai-google-scholar" style="color:gray"></i> Google Scholar
+      <i class="ai ai-google-scholar" style="color:gray"></i> <span style="color: white"> Google Scholar</span>
     </a>
   </li>
 {% endif %}
      
 
-{% if site.github_username %}
+{% if site.orcid_id %}
   <li>
-    <a href="https://github.com/{{ site.github_username }}" target="_blank">
-      <i class="fa fa-github" style="color:gray"></i> Github
+    <a href="https://orcid.org/{{ site.orcid_id }}" target="_blank">
+      <i class="ai ai-orcid" style="color:gray"></i> <span style="color: white">ORCID</span>
     </a>
   </li>
 {% endif %}
 
-{% if site.orcid_id %}
+
+{% if site.github_username %}
   <li>
-    <a href="https://orcid.org/{{ site.orcid_id }}" target="_blank">
-      <i class="ai ai-orcid" style="color:gray"></i> ORCID
+    <a href="https://github.com/{{ site.github_username }}" target="_blank">
+      <i class="fa fa-github" style="color:gray"></i> <span style="color: white"> Github</span>
     </a>
   </li>
 {% endif %}
