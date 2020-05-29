@@ -3,7 +3,6 @@ layout: page
 title: Publications
 permalink: /publication/
 ---
- <hr size="6" noshade> 
 
 <h4> Submitted articles:</h4>
 

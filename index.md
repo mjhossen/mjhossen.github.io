@@ -3,9 +3,6 @@ layout: page
 title: Jakir Hossen
 permalink: /
 ---
-
- <hr size="6" noshade> 
-
 <!--{% include image.html url="/images/my_photo.jpg" caption="My photo." width=50 align="right" %}-->
 <!--img style="padding: 20px; " src="/images/my_photo1.png" alt="My photo" width="360" align="right"-->
 
