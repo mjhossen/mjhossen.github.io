@@ -7,24 +7,34 @@ permalink: /
 <!--{% include image.html url="/images/my_photo.jpg" caption="My photo." width=50 align="right" %}-->
 <!--img style="padding: 20px; " src="/images/my_photo1.png" alt="My photo" width="360" align="right"-->
 
-<img style="float: right; padding: 10px; width:300px;" src="/images/my_photo1.png" alt="My photo" >
+<img style="float: right; padding: 5px; width:280px;" src="/images/my_photo1.png" alt="My photo" >
 
-#### Contact Information
+Dr. Jakir Hossen<br>
+Postdoctoral Research Associate<br>
+Cooperative Institute for Research in Environmental Sciences<br>
+University of Colorado Boulder<br>
+
+
+
+<sc>Education</sc>
 <ul>
-<li> Cooperative Institute for Research in Environmental Sciences </li>
+  <li>Ph.D in Geophysics, Australian National University, 2015</li>
+  <li>MS in Computational Science, Florida State University, 2008</li>
+  <li>M.Sc. in Applied Mathematics, University of Dhaka, Bangladesh, 2001</li>
+  <li>B.Sc. in Mathematics, University of Dhaka, Bangladesh, 1999</li>
+</ul> 
 
-<li> University of Colorado Boulder</li>
+<sc>Short Bio</sc>
+Jakir Hossen received his Bachelor of Science degree in mathematics and Master of Science in applied mathematics from University of Dhaka, Bangladesh in 1999 and 2001, respectively. He completed his MS degree in Computational Science from Florida State University in 2008 and PhD in geophysics from the Australian National University in 2015. He was an assistant professor at BRAC University, Bangladesh from 2015 to 2018. He worked as a Project Researcher at Earthquake Research Institute, University of Tokyo, Japan in 2017. Currently, he is a CIRES visiting fellow at the University of Colorado, Boulder starting in 2018. His research interest includes numerical weather prediction and geophysical science, in particular tsunami source studies, earthquake sources, inverse problems, data assimilation  and artificial intelligence. 
 
-<li> 200 Colorado Ave, Boulder, CO 80309</li>
+<sc>Contact</sc>
+Department of Geological Sciences<br>
+University of Colorado Boulder<br>
+Benson Earth Sciences building, Room-465<br>
+200 Colorado Ave, Boulder, CO 80309<br>
+Email: <a href="mailto:md.hossen@colorado.edu">md.hossen@colorado.edu</a><br>
 
-<li> Email: <a href="mailto:md.hossen@colorado.edu">md.hossen@colorado.edu</a></li> 
-</ul>
-
-### About me
-
-I am a postdoctoral research associate at CIRES (Cooperative Institute for Research in Environmental Sciences), University of Colorado Boulder, USA. My research interests lie primarily in the area of geophysical sciences, applied mathematics and computational science. I am particularly interested in numerical weather prediction and tsunami science to understand natural hazards and to improve the knowledge of their dynamics. I have applied data assimilation method in both numerical weather prediction and tsunami forecasting. Currently, I am developing a methodology using an adjoint sensitivity method with Green’s function based Time Reverse Imaging to identify the optimal sites for deploying new sea-floor sensors in the Cascadia subduction zone offshore Washington and Oregon. In future, I am keen to develop new algorithms by integrating data assimilation with artificial intelligence, especially deep neural network in order to reduce forecast error in both the fields.
-
-### Appointments
+<!--### Appointments
 <ul>
   <li>2018-present: CIRES Visiting Fellow, University of Colorado Boulder, USA</li>	
   <li>2017-2018: Project Researcher, University of Tokyo, Japan</li>
@@ -32,11 +42,6 @@ I am a postdoctoral research associate at CIRES (Cooperative Institute for Resea
   <li>2009-2011: Senior Lecturer in Mathematics, BRAC University, Bangladesh</li>
   <li>2002-2006: Lecturer in Mathematics, BRAC University, Bangladesh</li>
 </ul>
-### Education
-<ul>
-  <li>Ph.D in Geophysics, Australian National University, Australia, 2015</li>
-  <li>MS in Computational Science, Florida State University, Tallahassee, 2008</li>
-  <li>M.Sc. in Applied Mathematics, University of Dhaka, Bangladesh, 2001</li>
-  <li>B.Sc. in Mathematics, University of Dhaka, Bangladesh, 1999</li>
-</ul> 
+-->
+
 
