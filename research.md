@@ -3,6 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
+ <hr size="6" noshade> 
 
 My research interests lie primarily in the area of geophysical inverse problems, applied mathematics and computational science. I am particularly interested in numerical weather prediction and tsunami science to understand natural hazards and to improve the knowledge of their dynamics. In my research, I am trying to answer two fundamental questions: 1) how can we reduce forecast error significantly and 2) how can we reconstruct initial conditions more quickly and accurately? I am keen to develop new algorithms based on data assimilation with artificial intelligence in order to reduce forecast error in both the fields. 
 

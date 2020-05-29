@@ -1,12 +1,13 @@
-body { margin: 50px auto; width: 65%; background-color: #999 }
+body { margin: 5px auto; width: 65%; background-color: gray; }
 
 .post-content {
-    margin: 10px;
+    margin: 1px;
     padding: 10px;
     background-color: white;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1.em;
     line-height: 1.4em;
+    border: .1px solid green;
 }
 
 a { text-decoration: none; color: #999; }
