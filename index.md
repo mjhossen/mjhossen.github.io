@@ -4,12 +4,12 @@ title: Jakir Hossen
 permalink: /
 ---
 
- <hr size="7" noshade> 
- 
+ <hr size="6" noshade> 
+
 <!--{% include image.html url="/images/my_photo.jpg" caption="My photo." width=50 align="right" %}-->
 <!--img style="padding: 20px; " src="/images/my_photo1.png" alt="My photo" width="360" align="right"-->
 
-<img style="float: right; padding: 10px; height:100%; width:250px; object-fit: cover;" src="/images/my_photo1.png" alt="My photo" >
+<img style="float: right; padding: 10px; width:260px; object-fit: cover;" src="/images/my_photo1.png" alt="My photo" >
 
 Dr. Jakir Hossen<br>
 Postdoctoral Research Associate<br>
