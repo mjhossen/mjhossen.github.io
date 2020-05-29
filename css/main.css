@@ -3,7 +3,7 @@ body { margin: 20px auto; width: 60%; }
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
 
-a.pdf:link {color:red;text-decoration: underline; font-size: .9em}
+a.pdf:link {color:red;text-decoration: underline; font-size: .85em}
 a.pdf:visited {color:red;}
 a.pdf:hover {font-size:110%;}
 
