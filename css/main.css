@@ -2,7 +2,7 @@ body { margin: 5px auto; width: 65%; background-color: gray; }
 
 .post-content {
     margin: 1px;
-    padding: 10px;
+    padding: 15px;
     background-color: white;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1.em;
@@ -17,7 +17,7 @@ a.pdf:link {color:red;text-decoration: underline; font-size: .85em}
 a.pdf:visited {color:red;}
 a.pdf:hover {font-size:100%;}
 
-p, ul { font-size: 1.25em; line-height: 1.4em; color: #333; }
+p, ul { font-size: 1.2em; line-height: 1.4em; color: #333; }
 
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 2.7em;  }
@@ -33,7 +33,7 @@ sc { font-size: 1.3em; font-weight: bold; }
   text-align: center;
 }
 
-.container {text-align: justify; text-justify: inter-word;}
+.container {text-align: justify; text-justify: inter-word; font-size: 0.9em}
 
 nav ul, footer ul { font-size: 1.3em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
 nav ul li, footer ul li { display: inline; margin-right: 10px; colar: blue }
