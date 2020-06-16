@@ -44,4 +44,5 @@ plugins:
 # Other options
 permalink: blog/:year/:month/:title
 
-google-site-verification: "xXDQRCrKFCFKhdIejy3jtdfub293JsQKGYT8IpLdCf4"
+#google-site-verification: "xXDQRCrKFCFKhdIejy3jtdfub293JsQKGYT8IpLdCf4"
+google-site-verification: "qYWMBlfJbquam0mp3FcAtmo9cJzAOC76Q8lm2bmYnss"
