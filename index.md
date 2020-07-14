@@ -15,10 +15,10 @@ University of Colorado Boulder<br>
 
 <sc>Education</sc>
 <ul>
-  <li>Ph.D in Geophysics, Australian National University, 2015</li>
-  <li>MS in Computational Science, Florida State University, 2008</li>
-  <li>M.Sc. in Applied Mathematics, University of Dhaka, Bangladesh, 2001</li>
-  <li>B.Sc. in Mathematics, University of Dhaka, Bangladesh, 1999</li>
+  <li>Ph.D in Geophysics, Australian National University, Australia</li>
+  <li>MS in Computational Science, Florida State University, USA</li>
+  <li>M.Sc. in Applied Mathematics, University of Dhaka, Bangladesh</li>
+  <li>B.Sc. in Mathematics, University of Dhaka, Bangladesh</li>
 </ul> 
 
 <sc>Short Bio</sc>
