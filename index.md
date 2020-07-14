@@ -22,7 +22,7 @@ University of Colorado Boulder<br>
 </ul> 
 
 <sc>Short Bio</sc>
-Jakir Hossen received his Bachelor of Science degree in mathematics and Master of Science in applied mathematics from University of Dhaka, Bangladesh in 1999 and 2001, respectively. He completed his MS degree in Computational Science from Florida State University in 2008 and PhD in geophysics from the Australian National University in 2015. He was an assistant professor at BRAC University, Bangladesh from 2015 to 2018. He worked as a Project Researcher at Earthquake Research Institute, University of Tokyo, Japan in 2017. Currently, Dr. Hossen is a CIRES visiting fellow at the University of Colorado, Boulder. His research interest includes numerical weather prediction and geophysical science, in particular tsunami source studies, earthquake sources, inverse problems, data assimilation  and artificial intelligence. 
+Jakir Hossen received his Bachelor of Science degree in Mathematics and Master of Science in Applied Mathematics from University of Dhaka, Bangladesh in 1999 and 2001, respectively. He completed his MS degree in Computational Science from Florida State University in 2008 and PhD in Geophysics from the Australian National University in 2015. He was an assistant professor at BRAC University, Bangladesh from 2015 to 2018. He worked as a Project Researcher at Earthquake Research Institute, University of Tokyo, Japan in 2017. Currently, Dr. Hossen is a CIRES visiting fellow at the University of Colorado, Boulder. His research interest includes numerical weather prediction and geophysical science, in particular tsunami source studies, earthquake sources, inverse problems, data assimilation  and machine learning. 
 
 <sc>Contact</sc>
 Department of Geological Sciences<br>
