@@ -15,11 +15,19 @@ University of Colorado Boulder<br>
 
 <sc>Education</sc>
 <ul>
-  <li>Ph.D in Geophysics, Australian National University, Australia</li>
+  <li>Ph.D in Earth Science, Australian National University, Australia</li>
   <li>MS in Computational Science, Florida State University, USA</li>
   <li>M.Sc. in Applied Mathematics, University of Dhaka, Bangladesh</li>
   <li>B.Sc. in Mathematics, University of Dhaka, Bangladesh</li>
 </ul> 
+
+<sc>Research Interests</sc>
+<ul>
+ <li> Tsunami inundation modeling and forecast; Risk assessment </li>
+ <li> Subduction zone earthquake; Submarine landslide </li>
+  <li> Coastal hazard mitigation; Coastal flooding; Geophysical data analysis</li>
+ <li> Data assimilation; Machine learning; Scientific Computing</li>
+ </ul>
 
 <sc>Short Bio</sc>
 Dr. Jakir Hossen received his Bachelor of Science degree in Mathematics and Master of Science in Applied Mathematics from University of Dhaka, Bangladesh. He also completed his MS degree in Computational Science from Florida State University, USA and PhD in Geophysics from the Australian National University. He worked as a Project Researcher at Earthquake Research Institute, University of Tokyo, Japan. He was also a faculty member of BRAC University, Bangladesh. Currently, Dr. Hossen is a CIRES visiting fellow at the University of Colorado, Boulder. His research interest includes numerical weather prediction, geophysical science (particularly tsunami science), earthquake seismology, geodynamics, inverse problems, data assimilation  and machine learning. 
