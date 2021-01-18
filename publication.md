@@ -6,7 +6,7 @@ permalink: /publication/
 
 <h4> Submitted articles:</h4>
 
-**M. J. Hossen**, Iyan E. Mulia, David Mencin and Anne F. Sheehan (2020). "Data assimilation with ship-borne GPS data in the Cascadia subduction zone"
+**M. J. Hossen**, Iyan E. Mulia, David Mencin and Anne F. Sheehan (2020). "Data assimilation with ship-borne GPS data in the Cascadia subduction zone" (Submitted to Earth and Space Science, Under review).
 
 
 <h4> Peer-reviewed articles:</h4>
