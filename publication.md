@@ -4,12 +4,14 @@ title: Publications
 permalink: /publication/
 ---
 
-<h4> Submitted articles:</h4>
+<!-- <h4> Submitted articles:</h4> -->
 
-**M. J. Hossen**, Iyan E. Mulia, David Mencin and Anne F. Sheehan (2021). "Data assimilation with ship-borne GPS data in the Cascadia subduction zone" (Earth and Space Science, Accepted).
+<!--**M. J. Hossen**, Iyan E. Mulia, David Mencin and Anne F. Sheehan (2021). "Data assimilation with ship-borne GPS data in the Cascadia subduction zone" (Earth and Space Science, Accepted).-->
 
 
 <h4> Peer-reviewed articles:</h4>
+
+**Hossen, M. J.**, Mulia, I. E., Mencin, D., & Sheehan, A. F. (2021). Data assimilation for tsunami forecast with ship‐borne GNSS data in the Cascadia subduction zone. Earth and Space Science, 8, e2020EA001390. https://doi.org/10.1029/2020EA001390 (In Press).
 
 **M. J. Hossen**,  Sheehan, A.F. and Satake, K (2020). A Multi-fault Model Estimation from Tsunami Data: An Application to the 2018 M7.9 Kodiak Earthquake. Pure Appl. Geophys. 177, 1335--1346. https://doi.org/10.1007/s00024-020-02433-z. (<a class="pdf" href="https://link.springer.com/article/10.1007/s00024-020-02433-z" target="_blank">URL</a>)
     
