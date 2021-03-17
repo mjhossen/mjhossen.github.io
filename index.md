@@ -23,10 +23,10 @@ University of Colorado Boulder<br>
 
 <sc>Research Interests</sc>
 <ul>
+ <li> Data assimilation; Numerical Weather Prediction; Machine learning;</li>
  <li> Tsunami inundation modeling and forecast; Risk assessment </li>
+ <li> Coastal hazard mitigation; Coastal flooding; Geophysical data analysis</li>
  <li> Subduction zone earthquake; Submarine landslide </li>
-  <li> Coastal hazard mitigation; Coastal flooding; Geophysical data analysis</li>
- <li> Data assimilation; Machine learning; Scientific Computing</li>
  </ul>
 
 <sc>Short Bio</sc>
